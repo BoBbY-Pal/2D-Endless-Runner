@@ -25,5 +25,6 @@ public class SpawnObstacles : MonoBehaviour
         float randomX = Random. Range (minx, maxX);
         float randomY = Random. Range (minY, maxY);
         Instantiate(obstacle, transform.position + new Vector3(randomX, randomY, 0), transform.rotation);
+        
     }
 }
