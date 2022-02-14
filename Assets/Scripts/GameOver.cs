@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class GameOver : MonoBehaviour
 {
     public GameObject  gameOverPanel;
-
+    private int mainMenu = 0;
     // Update is called once per frame
     void Update()
     {
@@ -18,6 +18,11 @@ public class GameOver : MonoBehaviour
     public void Restart()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+    
+    public void ReturnMainmenu()
+    {
+        SceneManager.LoadScene(mainMenu);
     }
 
 }

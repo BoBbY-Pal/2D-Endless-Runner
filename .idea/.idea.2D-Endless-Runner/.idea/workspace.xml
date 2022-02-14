@@ -19,7 +19,9 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../2D-Platformer-Game/Assets/Scripts/Sounds/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../2D-Platformer-Game/Assets/Scripts/Level/GameOverUIController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../2D-Snake-Game/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -76,6 +78,9 @@
       <workItem from="1644816816692" duration="1966000" />
       <workItem from="1644818847930" duration="359000" />
       <workItem from="1644838508354" duration="1941000" />
+      <workItem from="1644843568036" duration="700000" />
+      <workItem from="1644864298321" duration="863000" />
+      <workItem from="1644866226349" duration="828000" />
     </task>
     <servers />
   </component>

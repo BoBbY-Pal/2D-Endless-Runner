@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class StartTheGame : MonoBehaviour 
+public class StartAndExit : MonoBehaviour 
 {   
     public Button playButton;
     public Button exitButton;
@@ -14,7 +14,7 @@ public class StartTheGame : MonoBehaviour
     private void ExitGame()
     {   
         // SoundManager.Instance.Play(Sounds.ExitButtonClick);
-        SceneManager.LoadScene(0);
+        Application.Quit();
     }
     private void StartGame()
     {   
