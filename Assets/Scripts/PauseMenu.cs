@@ -5,11 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
-   [SerializeField] GameObject pauseMenu;
+   [SerializeField] private GameObject pauseMenu;
    public void Pause()
    {
        pauseMenu.SetActive(true);
        Time.timeScale = 0f;
+               
    }
 
    public void Resume()
