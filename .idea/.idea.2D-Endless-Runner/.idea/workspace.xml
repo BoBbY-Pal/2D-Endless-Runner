@@ -18,6 +18,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../2D-Platformer-Game/Assets/Scripts/Level/GameOverUIController.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -72,6 +75,7 @@
       <updated>1644816805168</updated>
       <workItem from="1644816816692" duration="1966000" />
       <workItem from="1644818847930" duration="359000" />
+      <workItem from="1644838508354" duration="1941000" />
     </task>
     <servers />
   </component>
