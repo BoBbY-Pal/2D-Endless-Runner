@@ -1,5 +1,5 @@
 # 2D-Endless Runner
-> It's a 2d endless runner game named "STAY SAFE" based on a corona theme where doctor is going to vaccinate peoples but in the path player has to avoid corona viruses if player touches the virus he will get infected & player will lose the game.
+> It's a 2D Endless Runner game named "STAY SAFE" based on a corona theme where the doctor is going to vaccinate people but in the path, the player has to avoid corona viruses. If a player touches the virus he will get infected & player will lose the game.
 
 ## VISUALS:
 ![MainMenu](https://user-images.githubusercontent.com/84893882/185114626-3da28ad7-025b-41e1-889b-021db1d9b775.png)
