@@ -1,8 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
+using GenericSingleton;
+using UI;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : MonoGenericSingleton<PlayerController>
 {   
     public float playerSpeed;
     private Rigidbody2D rb;
@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
+        
         rb = GetComponent<Rigidbody2D>();   
     }
 
@@ -22,5 +23,13 @@ public class PlayerController : MonoBehaviour
     {
         float directionY = Input.GetAxisRaw("Vertical");
         playerDirection = new Vector2(0, directionY).normalized;
+        
+        ScoreManager.Instance.UpdateScore();
+    }
+    
+    public void PlayerDied()
+    {
+        Destroy(gameObject); 
+        UIHandler.Instance.GameOver();
     }
 }

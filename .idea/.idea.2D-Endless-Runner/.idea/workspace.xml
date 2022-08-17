@@ -4,7 +4,99 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57b4c58b-9f8a-409c-883d-6098eb33869f" name="Changes" comment="" />
+    <list default="true" id="57b4c58b-9f8a-409c-883d-6098eb33869f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Core/SpawnObstacles.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/ScoreManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/UIHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/UIHandler.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2D-Endless-Runner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2D-Endless-Runner/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Background.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Background.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Mask Button.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Mask Button.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Mask Button.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Mask Button.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Obstacle.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Obstacle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Obstacle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Obstacle.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Particle.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Particle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Particle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Particle.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Player.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Player.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Player.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Player.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Wooden Panel.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Wooden Panel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Wooden Panel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sprites/Wooden Panel.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BackgroundMusic.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BackgroundMusic.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/CameraMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/CameraMovement.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameOver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameOver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LoopingBackground.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/LoopingBackground.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LoopingBackground.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/LoopingBackground.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Obstacle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/DestroyObstacle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Obstacle.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/DestroyObstacle.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/PlayerController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/ScoreManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpawnObstacles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpawnObstacles.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/SpawnObstacles.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StartAndExit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/StartAndExit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StartAndExit.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/StartAndExit.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/001_Hover_01.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/001_Hover_01.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/001_Hover_01.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/001_Hover_01.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/013_Confirm_03.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/013_Confirm_03.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/013_Confirm_03.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/013_Confirm_03.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/029_Decline_09.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/029_Decline_09.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/029_Decline_09.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/029_Decline_09.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/033_Denied_03.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/033_Denied_03.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/033_Denied_03.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/033_Denied_03.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/051_use_item_01.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/051_use_item_01.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/051_use_item_01.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/051_use_item_01.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/070_Equip_10.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/070_Equip_10.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/070_Equip_10.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/070_Equip_10.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/071_Unequip_01.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/071_Unequip_01.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/071_Unequip_01.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/071_Unequip_01.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/079_Buy_sell_01.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/079_Buy_sell_01.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/079_Buy_sell_01.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/079_Buy_sell_01.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/092_Pause_04.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/092_Pause_04.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/092_Pause_04.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/092_Pause_04.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/098_Unpause_04.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/098_Unpause_04.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Button Press/098_Unpause_04.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Button Press/098_Unpause_04.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Music.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Music.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Music/BGM_01.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Music/BGM_01.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Music/BGM_01.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Music/BGM_01.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Music/BGM_02.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Music/BGM_02.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Music/BGM_02.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Music/BGM_02.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Music/BGM_03.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Music/BGM_03.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Music/BGM_03.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Music/BGM_03.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Music/BGM_04.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Music/BGM_04.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Music/BGM_04.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Sounds/Music/BGM_04.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +112,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../2D-Platformer-Game/Assets/Scripts/Sounds/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../2D-Platformer-Game/Assets/Scripts/Level/GameOverUIController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../2D-Snake-Game/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -32,20 +123,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="Discover.Launch.Via.Unity" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="rider.run.widget.enabled.cache" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Discover.Launch.Via.Unity": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="D:\Apps\Unity Engine\2020.3.37f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;D:\Game Dev\Unity 2D\2D-Endless-Runner&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Game Dev\Unity 2D\2D-Endless-Runner" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -81,6 +178,9 @@
       <workItem from="1644843568036" duration="700000" />
       <workItem from="1644864298321" duration="863000" />
       <workItem from="1644866226349" duration="828000" />
+      <workItem from="1653142344482" duration="1186000" />
+      <workItem from="1660646783722" duration="6951000" />
+      <workItem from="1660725072112" duration="3084000" />
     </task>
     <servers />
   </component>
@@ -90,6 +190,17 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
